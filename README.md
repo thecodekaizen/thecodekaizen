@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer, lifelong learner, and 
 - 🔭 I’m currently working on **innovative software projects** that make life easier and more efficient.
 - 🌱 I’m currently learning **advanced system design** and **cloud-native technologies**.
 - 💬 Ask me about **full-stack development**, **DevOps practices**, and **scalable architecture**.
-- 📫 How to reach me: [thecodekaizen@example.com](mailto:me.vishnusharma10@gmail.com)
+- 📫 How to reach me: [me.vishnusharma10@gmail.com](mailto:me.vishnusharma10@gmail.com)
 - ⚡ Fun fact: I believe **code is poetry**, and I enjoy crafting elegant solutions.
 
 ---
@@ -51,6 +51,6 @@ If you’re interested in collaborating on exciting projects or just want to hav
 
 - [LinkedIn](https://www.linkedin.com/in/thecodekaizen)
 - [Twitter](https://twitter.com/thecodekaizen)
-- [Dev.to](https://dev.to/thecodekaizen)
+- [all about me!](https://linktr.ee/thecodekaizen)
 
 Thanks for stopping by! 😊
