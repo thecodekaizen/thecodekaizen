@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer, lifelong learner, and 
 - 🔭 I’m currently working on **innovative software projects** that make life easier and more efficient.
 - 🌱 I’m currently learning **advanced system design** and **cloud-native technologies**.
 - 💬 Ask me about **full-stack development**, **DevOps practices**, and **scalable architecture**.
-- 📫 How to reach me: [thecodekaizen@example.com](mailto:thecodekaizen@example.com)
+- 📫 How to reach me: [thecodekaizen@example.com](mailto:me.vishnusharma10@gmail.com)
 - ⚡ Fun fact: I believe **code is poetry**, and I enjoy crafting elegant solutions.
 
 ---
@@ -34,9 +34,9 @@ Welcome to my GitHub profile! I'm a passionate developer, lifelong learner, and 
 ## 📚 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable APIs with GraphQL](#)
-- [A Developer's Guide to Kubernetes](#)
-- [CI/CD: Automating Your Workflow with GitHub Actions](#)
+- [What I Learned Growing from Junior to Senior Software Engineer
+](https://medium.com/builtbytheweekends/what-i-learned-growing-from-junior-to-senior-software-engineer-5934e209e78c)
+- [Who Will Lead the VR/AR Space if “Ready Player One” Becomes Reality?](https://medium.com/builtbytheweekends/who-will-lead-the-vr-ar-space-if-ready-player-one-becomes-reality-74d74c76f2a7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
