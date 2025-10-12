@@ -54,7 +54,7 @@ Creative storytelling about technology, philosophy, and self-growth.
 ### 🧩 [CanWeBuildThis / Buildable?](https://thecodekaizen.com)
 Research-driven exploration of building sci-fi tech using today’s tools and AI.
 
-### 🪴 [ThePierProject](https://thecodekaizen.com)
+### 🪴 [TheCodeKaizenLibrary](https://thecodekaizen.gumroad.com)
 A monetization lab experimenting with passive income ideas — theme pages, YouTube channels, dropshipping, print-on-demand, and digital products.
 
 ---
