@@ -68,31 +68,6 @@ And occasionally, one might become a company.
 
 ---
 
-### 🧠 Beyond Staging
-
-Field notes from the messy layer between:
-
-**code → production → customers → reality**
-
-I write about:
-
-- Forward Deployed Engineering
-- Production engineering
-- AI engineering
-- System design
-- Customer-facing engineering
-- Startups
-- Engineering tradeoffs
-- Things nobody teaches you in tutorials
-
-Because shipping software in the real world is rarely as straightforward as:
-
-```text
-build → deploy → done
-```
-
----
-
 ### 🌱 [LifeOutsideTheCode](https://www.instagram.com/lifeoutsidethecode)
 
 A reminder that life shouldn't revolve entirely around a laptop.
