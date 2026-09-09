@@ -17,7 +17,7 @@ jobs:
         with:
           filename: github-metrics.svg
           # A Personal Access Token (PAT) with `public_repo` (and `repo` for private) is highly recommended for accurate metrics!
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           config_timezone: Asia/Kolkata
           
