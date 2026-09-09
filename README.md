@@ -100,10 +100,14 @@ philosophy: "Learn → Build → Break → Understand → Repeat"
 
 ---
 
-## `> github --achievements & --activity`
+## `> github --activity`
 
 <div align="center">
-  <img src="github-metrics.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="profile-summary-card-output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---

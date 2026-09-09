@@ -24,3 +24,19 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile-summary-card-output/github-contribution-grid-snake.svg
+            profile-summary-card-output/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output/
+          git commit -m "chore: update github profile stats and snake animation" || echo "No changes to commit"
+          git push
