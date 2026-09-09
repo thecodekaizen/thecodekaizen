@@ -8,7 +8,6 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-thecodekaizen.com-181717?style=flat-square\&logo=googlechrome\&logoColor=white)](https://thecodekaizen.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thecodekaizen-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/thecodekaizen)
 [![X](https://img.shields.io/badge/X-@thecodekaizen-000000?style=flat-square\&logo=x\&logoColor=white)](https://twitter.com/thecodekaizen)
 [![Medium](https://img.shields.io/badge/Medium-BuiltByTheWeekends-000000?style=flat-square\&logo=medium\&logoColor=white)](https://medium.com/builtbytheweekends)
