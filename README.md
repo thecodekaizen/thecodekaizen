@@ -1,334 +1,228 @@
-# 👋 Hi, I'm Vishnu Sharma — aka [thecodekaizen](https://thecodekaizen.com)
+<div align="center">
 
-> **Continuous improvement through code, curiosity, and creation.**
+# 👋 Hey, I'm Vishnu Sharma
 
-I'm a **Senior Software Engineer, Forward Deployed Engineer, indie builder, and lifelong learner** interested in understanding how things work, building things that matter, and documenting what I learn along the way.
+### Backend · Distributed Systems · AI Engineering
 
-Most of my work sits somewhere between **backend engineering, distributed systems, AI engineering, developer tooling, startups, and product engineering**.
+**I build production systems, explore ideas, and occasionally start projects I absolutely did not need to start.**
 
-Outside of code, I'm equally curious about **movement, sports, philosophy, physics, creativity, and becoming a better generalist.**
+<br>
 
-Welcome to my corner of the internet 👾
+[![Website](https://img.shields.io/badge/Website-thecodekaizen.com-181717?style=flat-square\&logo=googlechrome\&logoColor=white)](https://thecodekaizen.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thecodekaizen-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/thecodekaizen)
+[![X](https://img.shields.io/badge/X-@thecodekaizen-000000?style=flat-square\&logo=x\&logoColor=white)](https://twitter.com/thecodekaizen)
+[![Medium](https://img.shields.io/badge/Medium-BuiltByTheWeekends-000000?style=flat-square\&logo=medium\&logoColor=white)](https://medium.com/builtbytheweekends)
+![Profile Views](https://komarev.com/ghpvc/?username=thecodekaizen\&style=flat-square\&label=PROFILE+VIEWS)
 
----
-
-## 🚀 What I Do
-
-### 💻 Senior Software Engineer / FDE
-
-Currently working as a **Forward Deployed Engineer**, where engineering goes beyond writing code.
-
-My work involves:
-
-- Building and debugging production systems
-- Working closely with customers and engineering teams
-- Designing AI-powered workflows and agents
-- Improving AI observability and evaluation pipelines
-- Optimizing LLM orchestration and inference costs
-- Solving problems across unfamiliar customer environments
-- Taking systems from requirements → production → iteration
-
-My background is primarily in **backend and distributed systems**, with 4+ years of experience building production software.
-
-I've worked extensively with:
-
-`Elixir` · `Go` · `Java` · `Python` · `PostgreSQL` · `Redis` · `RabbitMQ` · `GCP` · `Kubernetes`
+</div>
 
 ---
 
-## 🧩 Builder Outside the Job
+## `> whoami`
 
-I like turning curiosity into projects.
+```yaml
+name: Vishnu Sharma
+handle: thecodekaizen
+role: Senior Software Engineer · Forward Deployed Engineer
 
-### ⚡ [BuiltByTheWeekends](https://www.instagram.com/builtbytheweekends)
+focus:
+  - Backend Engineering
+  - Distributed Systems
+  - AI Engineering
+  - Developer Infrastructure
 
-My build-in-public playground.
+currently_exploring:
+  - Production AI Systems
+  - Agents & Evals
+  - Golang
+  - System Design
+  - Developer Tools
+  - Indie Products
 
-The idea is simple:
-
-> **Build → Break → Learn → Repeat**
-
-I experiment with:
-
-- AI agents
-- Developer tools
-- Micro-SaaS
-- Browser experiments
-- AR/VR
-- Robotics
-- Automation
-- Weird internet ideas
-- Weekend MVPs
-
-Some projects stay experiments.
-
-Some become products.
-
-And occasionally, one might become a company.
-
----
-
-### 🌱 [LifeOutsideTheCode](https://www.instagram.com/lifeoutsidethecode)
-
-A reminder that life shouldn't revolve entirely around a laptop.
-
-I document my experiments with:
-
-- Running
-- Swimming
-- Calisthenics
-- Tennis
-- Cycling
-- Movement
-- Books
-- Philosophy
-- Photography
-- Music
-- Creativity
-- Learning new skills
-
-Think of it as my public journal for everything that happens **outside the code**.
-
----
-
-### 🧬 Society of Polymaths
-
-An experiment around multidisciplinary curiosity.
-
-Technology is fascinating.
-
-But so are:
-
-**physics, mathematics, history, philosophy, psychology, art, economics, biology, astronomy, movement, and culture.**
-
-The goal is to create a community for people who refuse to fit neatly inside one box.
-
----
-
-## 🎯 Currently Exploring
-
-My current learning graph looks something like this:
-
-```text
-                    ┌── Distributed Systems
-                    │
-                    ├── System Design
-                    │
-Software Engineering ── AI Engineering
-                    │
-                    ├── Developer Infrastructure
-                    │
-                    └── Backend Architecture
-
-
-                    ┌── AI Agents
-                    │
-Building ───────────┼── Micro SaaS
-                    │
-                    ├── AR / VR
-                    │
-                    └── Robotics
-
-
-                    ┌── Mathematics
-                    │
-Curiosity ──────────┼── Physics
-                    │
-                    ├── Philosophy
-                    │
-                    └── Human Performance
+philosophy: "Learn → Build → Break → Understand → Repeat"
 ```
 
-Right now I'm particularly interested in:
-
-- 🤖 **AI Engineering**: agents, RAG, evals, orchestration, reasoning systems
-- 🏗️ **System Design**: distributed systems, databases, messaging, scalability
-- 🐹 **Golang** for backend and infrastructure
-- 🧠 Understanding how modern AI systems actually work
-- 🥽 **AR/VR and spatial computing**
-- 🤖 Robotics and intelligent systems
-- 🧮 Mathematics and physics foundations
-- 🚀 Indie hacking and product building
-
 ---
 
-## 🛠️ Tech I Work With
+## `> tech --stack`
+
+<div align="center">
 
 ### Languages
 
-`Elixir` `Go` `Java` `Python` `JavaScript` `TypeScript` `Dart`
+<img src="https://skillicons.dev/icons?i=elixir,go,python,java,ts,js,dart,rust&perline=8" />
 
-Also experimenting with:
+<br>
 
-`Rust`
+### Backend · Web · Data
 
-### Backend & Web
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,nodejs,nextjs,react,graphql&perline=8" />
 
-`Phoenix` `Node.js` `Next.js` `React` `Flutter`
-
-### Data
-
-`PostgreSQL` `Redis` `ClickHouse` `MongoDB`
+<br>
 
 ### Infrastructure
 
-`Docker` `Kubernetes` `GCP` `ArgoCD` `GitLab CI/CD` `Terraform`
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,git,github,gitlab&perline=8" />
 
-### Messaging & Distributed Systems
+</div>
 
-`RabbitMQ` `WebSockets` `REST` `GraphQL`
+<br>
 
-### AI Engineering
+<div align="center">
 
-`LLMs` `RAG` `Agents` `Evals` `Observability` `Prompt Engineering` `Model Routing`
+`Phoenix` · `RabbitMQ` · `ClickHouse` · `ArgoCD` · `WebSockets` · `REST`
 
-### Creative / Spatial
+`LLMs` · `RAG` · `Agents` · `Evals` · `Observability` · `Model Routing`
 
-`Figma` `Blender` `Unity` `Three.js` `Spline`
-
----
-
-## 🔬 Things I Like Building
-
-Some problems I find particularly interesting:
-
-### 🤖 AI Systems
-
-Agents that can reason, retrieve information, use tools, evaluate their own outputs, and interact with real software systems.
-
-### ⚙️ Distributed Systems
-
-Queues, caching, retries, consistency, databases, observability, scalability, and the hundreds of tiny decisions hidden behind reliable software.
-
-### 🧰 Developer Tools
-
-Anything that makes engineers faster or gives them better visibility into complex systems.
-
-### 🚀 Internet Businesses
-
-Small products solving annoyingly specific problems.
-
-### 🥽 Experimental Technology
-
-AR/VR, spatial computing, robotics, computer vision, and ideas that currently sound slightly ridiculous.
-
-Those are usually the fun ones.
+</div>
 
 ---
 
-## 📚 Writing
+## `> github --stats`
 
-I write about things I'm learning, building, and occasionally getting wrong.
+<div align="center">
 
-Some of my writing:
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thecodekaizen&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=transparent&rank_icon=github" />
 
-- [What I Learned Growing from Junior to Senior Software Engineer](https://medium.com/builtbytheweekends/what-i-learned-growing-from-junior-to-senior-software-engineer-5934e209e78c)
-- [Who Will Lead the VR/AR Space if “Ready Player One” Becomes Reality?](https://medium.com/builtbytheweekends/who-will-lead-the-vr-ar-space-if-ready-player-one-becomes-reality-74d74c76f2a7)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodekaizen&layout=compact&langs_count=10&hide_border=true&theme=transparent" />
 
-I also write about:
-
-- AI engineering
-- System design
-- Indie hacking
-- Engineering careers
-- Forward deployed engineering
-- Startups
-- Learning
-- Technology
-
-You can find more on [Medium](https://medium.com/builtbytheweekends).
+</div>
 
 ---
 
-## 🏆 A Few Milestones
+## `> github --streak`
 
-- 🏅 **Smart India Hackathon 2020 Winner**
-- 💻 4+ years building production software
-- 🏗️ Worked on backend systems used at meaningful production scale
-- 🤖 Building AI-powered engineering systems and workflows
-- 🧑‍🏫 Mentored developers and contributed to open-source projects
-- 🚀 Constantly shipping side projects, experiments, and occasionally questionable weekend ideas
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=thecodekaizen&theme=transparent&hide_border=true" />
 
-## 🌍 Beyond Engineering
-
-I don't want my GitHub contribution graph to be the only graph going up.
-
-So outside engineering, you'll probably find me:
-
-🏃 Running  
-🏊 Swimming  
-🎾 Playing tennis  
-🚴 Cycling  
-💪 Training calisthenics  
-📚 Reading  
-🎸 Learning music  
-📷 Taking photos  
-✍️ Writing  
-🧠 Falling into another completely unnecessary rabbit hole
-
-I think being good at engineering and being curious about the rest of the world are complementary, not competing goals.
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## `> github --achievements`
 
-![thecodekaizen's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodekaizen&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodekaizen&layout=compact&theme=radical)
+<img src="https://github-profile-trophy.vercel.app/?username=thecodekaizen&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=-1" />
 
----
-
-## 🌐 Find Me Around the Internet
-
-🌎 **Website**  
-[thecodekaizen.com](https://thecodekaizen.com)
-
-💼 **LinkedIn**  
-[linkedin.com/in/thecodekaizen](https://linkedin.com/in/thecodekaizen)
-
-🐦 **X / Twitter**  
-[@thecodekaizen](https://twitter.com/thecodekaizen)
-
-🛠️ **BuiltByTheWeekends**  
-[instagram.com/builtbytheweekends](https://www.instagram.com/builtbytheweekends)
-
-🌱 **LifeOutsideTheCode**  
-[instagram.com/lifeoutsidethecode](https://www.instagram.com/lifeoutsidethecode)
-
-🧠 **Medium**  
-[medium.com/builtbytheweekends](https://medium.com/builtbytheweekends)
-
-📬 **Email**  
-[me.vishnusharma10@gmail.com](mailto:me.vishnusharma10@gmail.com)
+</div>
 
 ---
 
-## 🧭 The Philosophy
+## `> github --activity`
 
-I don't really believe in reaching a point where you're *done* learning.
+<div align="center">
 
-Software changes.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thecodekaizen&theme=github-compact&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## `> interests`
+
+```text
+Backend Architecture       ████████████████████
+Distributed Systems        ████████████████████
+AI Systems                 ███████████████████░
+Databases                  ██████████████████░░
+Developer Infrastructure   ██████████████████░░
+Developer Tools            █████████████████░░░
+Indie Products             ████████████████░░░░
+Random Rabbit Holes        ████████████████████
+```
+
+I enjoy thinking about:
+
+`queues` · `caching` · `consistency` · `databases` · `retries` · `observability`
+
+`scalability` · `agents` · `RAG` · `evals` · `LLM orchestration` · `developer experience`
+
+---
+
+## `> ls ~/building`
+
+I like turning curiosity into software.
+
+```text
+🤖  AI Agents
+🧰  Developer Tools
+⚡  Micro-SaaS
+🔬  Scientific Computing
+👁️  Computer Vision
+🤖  Robotics
+🌐  Internet Experiments
+🧪  Things that may or may not become companies
+```
+
+---
+
+## `> ls ~/worlds`
+
+### ⚙️ Beyond Staging
+
+**Field notes from production.**
+
+Backend · Distributed Systems · AI Systems · FDE · Infrastructure
+
+[![Beyond Staging](https://img.shields.io/badge/beyondstaging.xyz-Visit-181717?style=flat-square\&logo=googlechrome\&logoColor=white)](https://beyondstaging.xyz)
+
+### ⚡ Built By The Weekends
+
+**I wonder if I can build this.**
+
+Experiments · Products · Science · Technology · Curiosity
+
+[![Instagram](https://img.shields.io/badge/@builtbytheweekends-Follow-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/builtbytheweekends)
+
+### 🌱 Life Outside The Code
+
+**There is more to a person than what they do for work.**
+
+Learning · Movement · Books · Experiences · Curiosity
+
+[![Instagram](https://img.shields.io/badge/@lifeoutsidethecode-Follow-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/lifeoutsidethecode)
+
+---
+
+## `> cat philosophy.txt`
+
+> I'm less interested in knowing everything than in staying curious enough to keep learning.
 
 Technology changes.
-
 Careers change.
-
 People change.
 
-So the goal isn't perfection.
+So I like the idea behind **Kaizen**:
 
-It's **Kaizen**:
-
-> Learn something.  
-> Build something.  
-> Break something.  
-> Understand it better.  
-> Repeat.
-
-**One percent better, one experiment at a time.**
+```text
+learn something
+      ↓
+build something
+      ↓
+break something
+      ↓
+understand it better
+      ↓
+repeat
+```
 
 ---
 
+<div align="center">
+
+### `while (alive) { learn(); build(); explore(); }`
+
+**One experiment at a time.**
+
+<br>
+
+![GitHub followers](https://img.shields.io/github/followers/thecodekaizen?style=flat-square\&logo=github\&label=FOLLOWERS)
+![GitHub User's stars](https://img.shields.io/github/stars/thecodekaizen?affiliations=OWNER\&style=flat-square\&logo=github\&label=STARS)
+
+<br>
+
 <sub>⚡ Probably building something I absolutely did not need to start.</sub>
+
+</div>
