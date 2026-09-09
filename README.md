@@ -87,16 +87,31 @@ philosophy: "Learn → Build → Break → Understand → Repeat"
 <br>
 
 <div align="center">
-  <img src="profile-summary-card-output/github_dark/3-stats.svg" />
-  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" />
+  <img width="49%" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img width="49%" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="49%" src="profile-summary-card-output/github_dark/3-stats.svg" />
+  <img width="49%" src="profile-summary-card-output/github_dark/4-productive-time.svg" />
 </div>
 
 ---
 
-## `> github --metrics`
+## `> github --achievements`
 
 <div align="center">
-  <img src="github-metrics.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thecodekaizen&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=-1" />
+</div>
+
+---
+
+## `> github --activity`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thecodekaizen&theme=github-compact&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
