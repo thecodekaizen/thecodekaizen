@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "jetro": {
+      "type": "stdio",
+      "command": "/Users/thecodekaizen/.jetro/runtime/node-darwin-arm64",
+      "args": [
+        "/Users/thecodekaizen/.jetro/mcp-server/index.js"
+      ],
+      "env": {
+        "JET_WORKSPACE": "/Users/thecodekaizen/Code/Projects/thecodekaizen",
+        "JET_API_URL": "https://api.jetro.ai",
+        "PATH": "/Users/thecodekaizen/.jetro/runtime:/opt/homebrew/opt/binutils/bin:/Users/thecodekaizen/.antigravity-ide/antigravity-ide/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/pkg/env/global/bin:/Library/Apple/usr/bin:/Users/thecodekaizen/sdks/flutter/bin:/Users/thecodekaizen/.local/bin:/Users/thecodekaizen/.local/bin"
+      }
+    }
+  }
+}
