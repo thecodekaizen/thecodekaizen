@@ -93,7 +93,7 @@ philosophy: "Learn → Build → Break → Understand → Repeat"
 
 ---
 
-## `> github --languages`
+## `> github --metrics`
 
 <div align="center">
   <img src="github-metrics.svg" />
