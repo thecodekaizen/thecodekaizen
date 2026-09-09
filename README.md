@@ -82,9 +82,9 @@ philosophy: "Learn → Build → Break → Understand → Repeat"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thecodekaizen&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=transparent&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=thecodekaizen&show_icons=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodekaizen&layout=compact&langs_count=10&hide_border=true&theme=transparent" />
+<img width="49%" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=thecodekaizen" />
 
 </div>
 
@@ -94,7 +94,9 @@ philosophy: "Learn → Build → Break → Understand → Repeat"
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=thecodekaizen&theme=transparent&hide_border=true" />
+<img
+  src="https://streak-stats.demolab.com?user=thecodekaizen&theme=transparent&hide_border=true"
+/>
 
 </div>
 
@@ -104,7 +106,9 @@ philosophy: "Learn → Build → Break → Understand → Repeat"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=thecodekaizen&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=-1" />
+<img
+  src="https://github-profile-trophy.vercel.app/?username=thecodekaizen&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=-1"
+/>
 
 </div>
 
@@ -114,10 +118,26 @@ philosophy: "Learn → Build → Break → Understand → Repeat"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thecodekaizen&theme=github-compact&hide_border=true&area=true" width="100%" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=thecodekaizen&theme=github-compact&hide_border=true&area=true"
+  width="100%"
+/>
 
 </div>
 
+---
+
+## `> github --numbers`
+
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/thecodekaizen?style=for-the-badge&logo=github&label=FOLLOWERS)
+
+![Stars](https://img.shields.io/github/stars/thecodekaizen?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS)
+
+![Profile Views](https://komarev.com/ghpvc/?username=thecodekaizen&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 ---
 
 ## `> interests`
