@@ -24,21 +24,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-
-      - name: Fetch External SVGs (Activity & Achievements)
-        run: |
-          mkdir -p generated-assets
-          
-          # Fetch Achievements (Trophy)
-          curl -s --retry 3 --retry-delay 5 -m 30 "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=-1" > generated-assets/achievements.svg
-          
-          # Fetch Activity Graph
-          curl -s --retry 3 --retry-delay 5 -m 30 "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&theme=github-compact&hide_border=true&area=true" > generated-assets/activity.svg
-
-      - name: Commit and Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add generated-assets/achievements.svg generated-assets/activity.svg
-          git commit -m "chore: update local activity and achievements SVGs" || echo "No changes to commit"
-          git push
