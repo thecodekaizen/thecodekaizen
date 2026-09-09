@@ -81,35 +81,21 @@ philosophy: "Learn → Build → Break → Understand → Repeat"
 ## `> github --stats`
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=thecodekaizen&show_icons=true" />
-
-<img width="49%" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=thecodekaizen" />
-
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" />
 </div>
 
----
-
-## `> github --streak`
+<br>
 
 <div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=thecodekaizen&theme=transparent&hide_border=true"
-/>
-
+  <img width="49%" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img width="49%" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 </div>
 
----
-
-## `> github --achievements`
+<br>
 
 <div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=thecodekaizen&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=-1"
-/>
-
+  <img width="49%" src="profile-summary-card-output/github_dark/3-stats.svg" />
+  <img width="49%" src="profile-summary-card-output/github_dark/4-productive-time.svg" />
 </div>
 
 ---
@@ -117,27 +103,9 @@ philosophy: "Learn → Build → Break → Understand → Repeat"
 ## `> github --activity`
 
 <div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=thecodekaizen&theme=github-compact&hide_border=true&area=true"
-  width="100%"
-/>
-
+  <img src="github-metrics.svg" />
 </div>
 
----
-
-## `> github --numbers`
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/thecodekaizen?style=for-the-badge&logo=github&label=FOLLOWERS)
-
-![Stars](https://img.shields.io/github/stars/thecodekaizen?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS)
-
-![Profile Views](https://komarev.com/ghpvc/?username=thecodekaizen&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
 ---
 
 ## `> interests`
